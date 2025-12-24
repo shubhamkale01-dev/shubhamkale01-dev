@@ -20,6 +20,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamKale01&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamKale01&theme=tokyonight)
 
 ## 📘 Daily Learning Log
 - ✅ Day 1: GitHub basics & first repo  
