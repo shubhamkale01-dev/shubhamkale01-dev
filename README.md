@@ -22,11 +22,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShubhamKale01&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkale01-dev&showicons=true&theme=dark)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamKale01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamkale01-dev&theme=dark)
 
 ## 📘 Daily Learning Log
 - ✅ Day 1: GitHub basics & first repo  
